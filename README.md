@@ -31,3 +31,8 @@ After applying the colour mask, I change the image into a binary image, using a 
 Then, I used Morphological operation to apply a structuring element to an input image.
 ### Output image:
 ![Output Image](https://gcdnb.pbrd.co/images/uc4dkqgKoMqU.jpg?o=1)
+
+## Step 6:
+Calculate the accuracy of the program using jaccard score function.
+### Accuracy:
+![Accuracy Image](https://gcdnb.pbrd.co/images/WnbsPbalwBZp.png?o=1)
